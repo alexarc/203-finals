@@ -20,3 +20,7 @@ The goal of this assignment is to create a program able to render a wireframe vi
 
  - Support rotating the 3D object
  - Smooth lines in the rendered output
+
+## Tips
+
+ - Look at the [BMP Sample](help/bmp_sample.cpp) for details on how to generate the BMP file.
