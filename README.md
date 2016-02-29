@@ -13,6 +13,8 @@ As a rule of thumb, I expect at least as much as Tier 1 completed to validate a 
 
 Each subject has links to related files where you can find sample I/O files for Tier 1 and documentation for how to complete Tiers 2 and 3. Feel free to copy/paste code from this repository into your project.
 
+Feel free to open an [issue](../../issues) if you think a project is lacking details, sample files, or sample code.
+
 Below is the list of subjects.
 
  - [Breakout](breakout.md)
