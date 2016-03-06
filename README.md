@@ -17,12 +17,12 @@ Feel free to open an [issue](../../issues) if you think a project is lacking det
 
 Below is the list of subjects.
 
- - [Breakout](breakout.md)
  - [FX Trading Bot](fx.md)
  - [HTTP Server](http.md)
  - [Nethack](nethack.md)
  - [OBJ File Renderer](obj.md)
  - [Quizz](quizz.md)
  - [Snake](snake.md)
+ - [Space Invaders](invaders.md)
  - [Tetris](tetris.md)
  - [ZIP File Reader](zip.md)
