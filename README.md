@@ -17,6 +17,7 @@ Feel free to open an [issue](../../issues) if you think a project is lacking det
 
 Below is the list of subjects.
 
+ - [EXIF Harvester](EXIF.md)
  - [FX Trading Bot](fx.md)
  - [HTTP Server](http.md)
  - [Nethack](nethack.md)
